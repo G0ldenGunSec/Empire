@@ -9,7 +9,7 @@ class Stager:
     def __init__(self, mainMenu, params=[]):
 
         self.info = {
-            'Name': 'BackdoorLnkMacroCellEmbed',
+            'Name': 'BackdoorLnkMacro',
 
             'Author': ['@G0ldenGunSec'],
 
